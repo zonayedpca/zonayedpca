@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zonayed Ahmed
-=====================================================================================================================================
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Zonayed Ahmed</h1>
 
 Frontend Engineer 🖥️ Author ❤️ JavaScript & Rust
--------------------------------------------------
+---
 
 I'm a software engineer and web developer with over 12 years of experience, specializing in Frontend Engineering and serverless technologies. My journey in the tech world has been largely shaped by my love for JavaScript, which I use to build dynamic, responsive, and engaging user interfaces. Alongside JavaScript, I've also become passionate about Rust for its efficiency and safety, adding a robust layer to my technical toolkit. 
 
